@@ -1,1 +1,1 @@
-# Real-Time-Face-REcognition-based-Attendance-System
+# Real-Time-Face-Recognition-based-Attendance-System
