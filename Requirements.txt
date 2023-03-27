@@ -1,0 +1,3 @@
+1. Image Data 
+2. Face Detection Algorithm - HAAR Cascade algorithm
+3. Face Recognition Algorithm - LBPH (Local Binary Pattern Histogram) 
